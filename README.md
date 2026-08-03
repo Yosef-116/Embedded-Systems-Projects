@@ -1,6 +1,6 @@
 # 🔧 Embedded Systems & Firmware Engineering
 
-A collection of embedded systems and firmware projects written in C/C++ for Arduino-compatible microcontrollers, developed during my **Embedded Systems and Firmware Engineering** internship at **INSA (Information Network Security Administration)**.
+A collection of embedded systems and firmware projects written in C for Arduino-compatible microcontrollers, developed during my **Embedded Systems and Firmware Engineering** internship at **INSA (Information Network Security Administration)**.
 
 Projects range from fundamental GPIO exercises to more advanced peripherals like OLED displays, servo-controlled security systems, PWM dimming, and a simulated mini operating system — all built with register-level awareness and hardware-close C code.
 
